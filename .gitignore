@@ -1,0 +1,52 @@
+# Environment variables - NEVER upload this
+.env
+.env.*
+*.env
+
+# Python virtual environment
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Python egg / distribution
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Byte-compiled files
+*.pyc
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
