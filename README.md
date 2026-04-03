@@ -41,7 +41,6 @@ venv\Scripts\activate
 3. Go to: https://platform.openai.com/api-keys
 4. Click "Create new secret key"
 5. Copy key (starts with sk-...)
-6. Note: Free tier gives $5 credit (enough for 100+ itineraries)
 
 
 ### **2. Google Maps API Key**
@@ -51,11 +50,9 @@ venv\Scripts\activate
 3. Enable "Maps JavaScript API" and "Places API"
 4. Go to Credentials → Create API Key
 5. Restrict key to Maps APIs only
-6. Note: Free tier: $200 credit/month
 
 ### **3. OpenWeatherMap API**
 
 1. Go to: https://openweathermap.org/api
 2. Sign up for free
 3. Get API key from dashboard
-4. Note: Free tier: 1000 calls/day
